@@ -1,6 +1,6 @@
 <h1> INSTAGRAM PROJECT </h1>
 
-<p align="center">
+<p>
 <a href="Java url">
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
 </a>
