@@ -1,4 +1,4 @@
-<h1 align = "center"> INSTAGRAM PROJECT </h1>
+<h1> INSTAGRAM PROJECT </h1>
 
 <p align="center">
 <a href="Java url">
@@ -40,22 +40,7 @@ The following dependencies are required to run the project:
 
 <br>
 
-## Database Configuration
-To connect to a MySQL database, update the application.properties file with the appropriate database URL, username, and password. The following properties need to be updated:
-```
-spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
-spring.datasource.url = jdbc:mysql://localhost:3306/<DatabaseName>
-spring.datasource.username = <userName>
-spring.datasource.password = <password>
-spring.jpa.show-sql = true
-spring.jpa.hibernate.ddl-auto = update
 
-spring.jpa.properties.hibernate.show_sql=true
-spring.jpa.properties.hibernate.use_sql_comments=true
-spring.jpa.properties.hibernate.format_sql=true
-
-```
-<br>
 
 ## Language Used
 * Java
@@ -146,32 +131,3 @@ The project is a basic web application built using Java and the Spring framework
 
 
 
-## Author
-
-👤 **Ajinkya Padule**
-
-* GitHub: [AjinkyaPersonal](https://github.com/AjinkyaPersonal)
-
-* LinkedIn: [Ajinkya Padule](https://www.linkedin.com/in/ajinkya-padule-04b8541a6/)
-    
----
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]("url").
-    
----
-    
-## Show your support
-
-Give a ⭐️ if this project helped you!
-    
----
-    
-## 📝 License
-
-Copyright © 2023 [Ajinkya Padule](https://github.com/AjinkyaPersonal).<br />
-
-This project is [MIT]("url") licensed.
-    
----
